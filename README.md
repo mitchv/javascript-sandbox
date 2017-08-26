@@ -10,8 +10,8 @@
 	*
 2. ##- HTML stuff - 
 	* Draws a wedge shape of 1 degree every 10 seconds until it fills a circle.
-	* Switches from Color 1 to Color 2 depending 
-	*
+	* Switches from Color 1 to Color 2 depending on whether break is 'on' or 'off'.
+	* Title and background colors also change. (SASS?)
 	*
 3. ##- CSS stuff -
 	* Plays a 'yoohoo' whistle sound when break starts
