@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Daily Reflections</title>
+<style>
+body {max-width:500px;font-family:Georgia;line-height:1.4em;}
+#commentary {min-height:200px;}
+#date {border:1px solid #000;border-width: 0 0 2px 0;font-weight:bold;line-height:1.6em;text-align:right;}
+h1 {font-size:1.8em;text-align:center;font-weight:normal;}
+h2 {font-size:1.2em;font-weight:normal;font-style:italic;text-align:left;}
+h3 {font-size:1.1em;text-align:right;}
+
+footer {display:grid;grid-template-columns:auto auto auto auto;padding:20px 10px;}
+  footer a {background-color:#BBB;margin:4px;text-align:center;text-decoration:none;}
+  footer a:hover {background-color:#FFF;}
+  footer a:visited {background-color:#999;}
+</style>
+<script>
+theDate = new Date();
+var day = theDate.getDate();
+var month = theDate.getMonth();
+var d = month + 1 + "" + day;
+var textdate = (theDate.getMonth() + 1) + ' / ' + theDate.getDate();
+
+document.getElementById("date").innerHTML = textdate;
+var todayquote = new Array (1232);
+todayquote [11] = ["JANUARY 1" , "I AM A MIRACLE" , "The central fact of our lives today is the absolute certainty that our Creator has entered into our hearts and lives in a way that is indeed miraculous. He has commenced to accomplish those things for us which we could never do for ourselves." , "ALCOHOLICS ANONYMOUS, p. 25" , "This truly is a fact in my life today, and a real miracle. I always believed in God, but could never put that belief meaningfully into my life. Today, because of Alcoholics Anonymous, I now trust and rely on God, as I understand Him; I am sober today because of that! Learning to trust and rely on God was something I never could have done alone. I now believe in miracles because I am one!"];
+
+document.getElementById("title").innerHTML = todayquote[11][1];
+document.getElementById("quote").innerHTML = todayquote[11][2];
+document.getElementById("attribution").innerHTML = todayquote[11][3];
+document.getElementById("commentary").innerHTML = todayquote[11][4];
+</script>
+
+</head>
+<body>
+<header>
+  <div id="date">
+    JANUARY 1
+  </div>
+</header>
+<main>
+  <h1 id="title">Title text goes here</h1>
+  <h2 id="quote">Quote text goes here</h2>
+  <h3 id="attribution">Attribution goes here</h3>
+  <div id="commentary">
+    Commentary goes here.
+  </div>
+</main>
+<footer>
+  <a href="#">Beginning</a>
+  <a href="#">Previous</a>
+  <a href="#">Next</a>
+  <a href="#">End</a>
+</footer>
+</body>
+</html>
