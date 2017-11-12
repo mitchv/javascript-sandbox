@@ -27,29 +27,26 @@ todayquote [101] = ["JANUARY 1" , "I AM A MIRACLE" , "The central fact of our li
 todayquote [102] = ["JANUARY 2" , "FIRST, THE FOUNDATION" , "Is sobriety all that we can expect of a spiritual awakening? No, sobriety is only a bare beginning." , "AS BILL SEES IT, p. 8" , "Practicing the A.A. program is like building a house. First I had to pour a big, thick concrete slab on which to erect the house; that, to me, was the equivalent of stopping drinking. But it's pretty uncomfortable living on a concrete slab, unprotected and exposed to the heat, cold, wind and rain. So I built a room on the slab by starting to practice the program. The first room was rickety because I wasn't used to the work. But, as time passed, as I practiced the program, I learned to build better rooms. The more I practiced, and the more I built, the more comfortable, and happy, was the home I now have to live in."];
 todayquote [103] = ["JANUARY 3","POWERLESS","We admitted we were powerless over alcohol - that our lives had become unmanageable.","TWELVE STEPS AND TWELVE TRADITIONS, p. 21","It is no coincidence that the very first Step mentions powerlessness: An admission of personal powerlessness over alcohol is a cornerstone of the foundation of recovery. I've learned that I do not have the power and control I once thought I had. I am powerless over what people think of me. I am powerless over having just missed the bus. I am powerless over how other people work (or don't work) the Steps. But I'm also learned I am <i>not</i> powerless over some things. I am <i>not</i> powerless over my attitudes. I am <i>not</i> powerless over negativity. I am <i>not</i> powerless over assuming responsibility for my own recovery. I have the power to exert an influence on myself, my loved ones, and the world in which I live."]
 
-if (d == 101) {
-document.getElementById("date").innerHTML = [101][1];
-document.getElementById("title").innerHTML = todayquote[101][1];
-document.getElementById("quote").innerHTML = todayquote[101][2];
-document.getElementById("attribution").innerHTML = todayquote[101][3];
-document.getElementById("commentary").innerHTML = todayquote[101][4];
-} else if (d == 102)  {document.getElementById("date").innerHTML = [102][1];
-document.getElementById("title").innerHTML = todayquote[102][1];
-document.getElementById("quote").innerHTML = todayquote[102][2];
-document.getElementById("attribution").innerHTML = todayquote[102][3];
-document.getElementById("commentary").innerHTML = todayquote[102][4];}
-else {document.getElementById("date").innerHTML = [103][0];
-document.getElementById("title").innerHTML = todayquote[103][1];
-document.getElementById("quote").innerHTML = todayquote[103][2];
-document.getElementById("attribution").innerHTML = todayquote[103][3];
-document.getElementById("commentary").innerHTML = todayquote[103][4];};
+function dateAssign(d){
+document.getElementById("debug").innerHTML = d;
+document.getElementById("date").innerHTML = todayquote[d][0];
+document.getElementById("title").innerHTML = todayquote[d][1];
+document.getElementById("quote").innerHTML = todayquote[d][2];
+document.getElementById("attribution").innerHTML = todayquote[d][3];
+document.getElementById("commentary").innerHTML = todayquote[d][4];
+}
+
+dateAssign(d);
 </script>
 
 </head>
 <body>
 <header>
+  <div id="debug">
+    value of variable d
+  </div>
   <div id="date">
-    JANUARY 1
+    Date goes here
   </div>
 </header>
 <main>
