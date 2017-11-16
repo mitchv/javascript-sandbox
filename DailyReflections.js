@@ -26,9 +26,21 @@ todayquote [124] = ["JANUARY 24" , "GETTING INVOLVED" , 'There is action and mor
 todayquote [125] = ["JANUARY 25" , "WHAT WE NEED - EACH OTHER" , '... A.A. is really saying to every serious drinker, "You are a member if YOU say so." ... Nobody can keep you out.' , "Twelve Steps and Twelve Traditions, p. 139" , 'For years, whenever I reflected on "Tradition Three" ("The only requirement for A.A. membership is a desire to stop drinking") I thought it valuable only to newcomers. It was their guarantee that no one could bar them from A.A. Today I feel enduring gratitude for the spiritual development the Third Tradition has brought me. I don`t seek out people obviously different from myself. Tradition Three, concentrating on the one way I am similar to others, brought me to know and help every kind of alcoholic, just as they have helped me. Charlotte, the atheist, showed me higher standards of ethics and honor; Clay, of another race, taught me patience; Winslow, who is gay, led me by example into true compassion; Young Megan says that seeing me at meetings, sober thirty years, keeps her coming back. Tradition Three insured that we would get what we need - each other. ']
 todayquote [126] = ["JANUARY 26" , "RIGOROUS HONESTY" , "Who wishes to be rigorously honest and tolerant? Who wants to confess his faults to another and make restitution for harm done? Who cares anything about a Higher Power, let alone meditation and prayer? Who wants to sacrifice time and energy trying to carry A.A.'s message to the next sufferer? No, the average alcoholic, self-centered in the extreme, doesn't care for this prospect - unless he has to do these things to stay alive himself." , "TWELVE STEPS AND TWELVE TRADITIONS, p. 24" , "I am an alcoholic. If I drink I will die. My, what power, energy, and emotion this simple statement generates in me! But it's really all I need to know for today. Am I willing to stay alive today? Am I willing to stay sober today? Am I willing to ask for help and am I willing to be help to another suffering alcoholic today? Have I discovered the fatal nature of my situation? What must I do, today, to stay sober?"]
 todayquote [127] = ["JANUARY 27" , "FREEDOM FROM GUILT" , "Where other people were concerned, we had to drop the word 'blame' from our speech and thought." , "TWELVE STEPS AND TWELVE TRADITIONS, p. 47" , "When I become willing to accept my own powerlessness, I begin to realize that blaming myself for all the trouble in my life can be an ego trip back into hopelessness. Asking for help and listening deeply to the messages inherent in the Steps and Traditions of the program make it possible to change those attitudes that delay my recovery. Before joining A.A., I had such a desire for approval from people in powerful positions that I was willing to sacrifice myself, and others, to gain a foothold in the world. I invariably came to grief. In the program I find true friends who love, understand, and care to help me learn the truth about myself. With the help of the Twelve Steps, I am able to build a better life, free of guilt and the need for self-justification."]
-todayquote [128] = ["JANUARY 28" , "" , "" , "" , ""]
+todayquote [128] = ["JANUARY 28" , "THE TREASURE OF THE PAST" , "Showing others who suffer how we were given help is the very thing which makes life seem so worthwhile to us now. Cling to the thought that, in God's hands, the dark past is the greatest possession you have - the key to life and happiness for others. With it you can avert death and misery for them." , "ALCOHOLICS ANONYMOUS, p. 124" , "What a gift it is for me to realize that all those seemingly useless years were not wasted. The most degrading and humiliating experiences turn out to be the most powerful tools in helping others to recover. In knowing the depths of shame and despair, I can reach out with a loving and compassionate hand, and know that the grace of God is available to me."]
 todayquote [129] = ["JANUARY 29" , "" , "" , "" , ""]
-todayquote [130] = ["JANUARY 30" , "" , "" , "" , ""]
+todayquote [131] = ["JANUARY 31" , "" , "" , "" , ""]
+todayquote [201] = ["FEBRUARY 1" , "" , "" , "" , ""]
+todayquote [202] = ["FEBRUARY 2" , "" , "" , "" , ""]
+todayquote [203] = ["FEBRUARY 3" , "" , "" , "" , ""]
+todayquote [204] = ["FEBRUARY 4" , "" , "" , "" , ""]
+todayquote [205] = ["FEBRUARY 5" , "" , "" , "" , ""]
+todayquote [206] = ["FEBRUARY 6" , "" , "" , "" , ""]
+todayquote [207] = ["FEBRUARY 7" , "" , "" , "" , ""]
+todayquote [208] = ["FEBRUARY 8" , "" , "" , "" , ""]
+todayquote [209] = ["FEBRUARY 9" , "" , "" , "" , ""]
+
+
+
 
 theDate = new Date();
 var day = ("0" + theDate.getDate()).slice(-2)
