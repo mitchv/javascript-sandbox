@@ -30,7 +30,7 @@ todayquote [128] = ["JANUARY 28" , "THE TREASURE OF THE PAST" , "Showing others 
 todayquote [129] = ["JANUARY 29" , "THE JOY OF SHARING" , "Life will take on new meaning. To watch people recover, to see them help others, to watch loneliness vanish, to see a fellowship grow up about you, to have a host of friends - this is an experience you must not miss. We know you will not want to miss it. Frequent contact with newcomers and with each other is the bright spot of our lives." , "ALCOHOLICS ANONYMOUS, p. 89" , "To know that each newcomer with whom I share has the opportunity to experience the relief that I have found in this fellowship fills me with joy and gratitude. I feel that all the things described in A.A. will come to pass for them, as they have for me, if they seize the opportunity and embrace the program fully."]
 todayquote [130] = ["JANUARY 30" , "FREEDOM FROM ... FREEDOM TO" , "We are going to know a new freedom." , "ALCOHOLICS ANONYMOUS, p.83" , "Freedom for me is both freedom <i>from</i> and freedom <i>to</i>. The first freedom I enjoy is freedom from the slavery of alcohol. What a relief! Then I begin to experience freedom <i>from</i> fear - fear of people, of economic insecurity, of commitment, of failure, of rejection. Then I begin to enjoy freedom <i>to</i> - freedom to <i>choose</i> sobriety for today, freedom to be myself, freedom to express my opinion, to experience peace of mind, to love and be loved, and freedom to grow spiritually. But how can I achieve these freedoms? The Big Book clearly says that before I am halfway done making amends, I will begin to know a 'new' freedom; not the old freedom of doing what I pleased, without regard to others, but the new freedom that allows fulfillment of the promises in my life. What a joy to be free!"]
 todayquote [131] = ["JANUARY 31" , "OUR COMMON WELFARE COMES FIRST" , "The unity of Alcoholics Anonymous is the most cherished quality our Society has... We stay whole, or A.A. dies." , "TWELVE STEPS AND TWELVE TRADITIONS, p. 129" , "Our Traditions are key elements in the ego deflation process necessary to achieve and maintain sobriety in Alcoholics Anonymous. The First Tradition reminds me not to take credit, or authority, for my recovery. Placing our common welfare first reminds me not to become a healer in this program; I am still one of the patients. Self-effacing elders built the ward. Without it, I doubt I would be alive. Without the group, few alcoholics would recover. <BR> The active role in renewed surrender of will enables me to step aside from the need to dominate, the desire for recognition, both of which played so great a part in my active alcoholism. Deferring my personal desires for the greater good of group growth contributes to A.A. unity that is central to all recovery. It helps me to remember that the whole is greater than the sum of its parts."]
-todayquote [201] = ["FEBRUARY 1" , "" , "" , "" , ""]
+todayquote [201] = ["FEBRUARY 1" , "GOAL = SANITY" , "" , "" , ""]
 todayquote [202] = ["FEBRUARY 2" , "" , "" , "" , ""]
 todayquote [203] = ["FEBRUARY 3" , "" , "" , "" , ""]
 todayquote [204] = ["FEBRUARY 4" , "" , "" , "" , ""]
@@ -59,6 +59,6 @@ document.getElementById("commentary").innerHTML = todayquote[d][4];
 }
 
 // dateAssign(d);
-dateAssign(123);
+dateAssign(124);
 
 // 101 beginning, d - 1 previous, d + 1 next, 1231 end
