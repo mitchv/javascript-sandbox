@@ -39,7 +39,26 @@ todayquote [206] = ["FEBRUARY 6" , "A RALLYING POINT" , "Therefore, Step Two is 
 todayquote [207] = ["FEBRUARY 7" , "" , "" , "" , ""]
 todayquote [208] = ["FEBRUARY 8" , "" , "" , "" , ""]
 todayquote [209] = ["FEBRUARY 9" , "" , "" , "" , ""]
-
+todayquote [210] = ["FEBRUARY 10" , "" , "" , "" , ""]
+todayquote [211] = ["FEBRUARY 11" , "" , "" , "" , ""]
+todayquote [212] = ["FEBRUARY 12" , "" , "" , "" , ""]
+todayquote [213] = ["FEBRUARY 13" , "" , "" , "" , ""]
+todayquote [214] = ["FEBRUARY 14" , "" , "" , "" , ""]
+todayquote [215] = ["FEBRUARY 15" , "" , "" , "" , ""]
+todayquote [216] = ["FEBRUARY 16" , "" , "" , "" , ""]
+todayquote [217] = ["FEBRUARY 17" , "" , "" , "" , ""]
+todayquote [218] = ["FEBRUARY 18" , "" , "" , "" , ""]
+todayquote [219] = ["FEBRUARY 19" , "" , "" , "" , ""]
+todayquote [220] = ["FEBRUARY 20" , "" , "" , "" , ""]
+todayquote [221] = ["FEBRUARY 21" , "" , "" , "" , ""]
+todayquote [222] = ["FEBRUARY 22" , "" , "" , "" , ""]
+todayquote [223] = ["FEBRUARY 23" , "" , "" , "" , ""]
+todayquote [224] = ["FEBRUARY 24" , "" , "" , "" , ""]
+todayquote [225] = ["FEBRUARY 25" , "" , "" , "" , ""]
+todayquote [226] = ["FEBRUARY 26" , "" , "" , "" , ""]
+todayquote [227] = ["FEBRUARY 27" , "" , "" , "" , ""]
+todayquote [228] = ["FEBRUARY 28" , "" , "" , "" , ""]
+todayquote [229] = ["FEBRUARY 29" , "" , "" , "" , ""]
 
 
 
