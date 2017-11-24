@@ -78,6 +78,6 @@ document.getElementById("commentary").innerHTML = todayquote[d][4];
 }
 
 // dateAssign(d);
-dateAssign(128);
+dateAssign(129);
 
 // 101 beginning, d - 1 previous, d + 1 next, 1231 end
