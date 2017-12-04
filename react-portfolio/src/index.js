@@ -1,11 +1,16 @@
-// let's go!
 import React from 'react';
 import { render } from 'react-dom';
+import { BrowserRouter, Match, Miss } from 'react-router';
+import './css/style.css';
+import App from './App.js';
+import StorePicker from './StorePicker';
 
-class Slide extends React.Component {
-	render(){
-		return <a href="url" target="_blank"><img src="url">caption</a>
-	}
+const Root = () => {
+	return (
+		<BrowserRouter>
+			<Match exactly pattern="/" component={StorePicker} />
+		</BrowserRouter>
+	)
 }
 
-render (<Slide/>, document.querySelector('#main'));
+render (<App/>, document.querySelector('#main'));
