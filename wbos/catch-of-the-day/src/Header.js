@@ -5,8 +5,8 @@ const Header = (props) => {
 			<header className="top">
 				<h1>Catch 
 				<span className="ofThe">
-					<span class="of">of</span>
-					<span class="the">the</span>
+					<span className="of">of</span>
+					<span className="the">the</span>
 				</span>
 				Day</h1>
 				<h3 className="tagline">{props.tagline}</h3>
