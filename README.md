@@ -17,3 +17,6 @@
 	* Plays a 'yoohoo' whistle sound when break starts
 	* Plays a 'honk' noise when break ends
 "
+
+
+My degree is in Visual Communications from Whatcom Community College up in Bellingham, where I started out as a print production artist and later moved into the game industry doing Flash animation. I spent longer than I care to admit specializing in Flash, and obviously reached a pivot point around 2011 into front-end web development, which has been my primary focus since leaving my last full-time design position. I have a wide variety of freelance projects under my belt utilizing technologies like WordPress, Drupal, React.js, Angular.js, jQuery, Bootstrap and SASS, on top of a solid foundation with HTML, CSS and JavaScript Core.
