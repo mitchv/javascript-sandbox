@@ -27,38 +27,45 @@ My degree is in Visual Communications from Whatcom Community College up in Belli
 <head>
 <title>VeggART.com // Design by Mitch Vega</title>
 <style type="text/css">
-html {  background: url('body-paint-react/3.jpg') no-repeat center center fixed;
-  background-size: cover; }
-body {
-margin: 0;
-padding: 0; 
-  background: url('body-paint-react/3.jpg') repeat center center fixed; 
+html {  background: #000000;}
+body {width:100%;height:100%;
+color:#ffffff;font-size:26pt; font-family:sans-serif; margin: 0; padding: 0; 
+  background: url('body-paint-react/horiz/0.jpg') repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
-	#b1 { background: url('body-paint-react/12.jpg') no-repeat center center fixed; }
-	#b2 { background: url('body-paint-react/1.jpg') no-repeat center center fixed; }
-	#b3 { background: url('body-paint-react/6.jpg') no-repeat center center fixed; }
-	#b4 { background: url('body-paint-react/8.jpg') no-repeat center center fixed; }
-	#b5 { background: url('body-paint-react/10.jpg') no-repeat center center fixed; }
-	#b6 { background: url('body-paint-react/11.jpg') no-repeat center center fixed; }
+ul {list-style-type:none;}
+	a {color:#ffffff;text-decoration:none;}
+	#b1 { background: url('body-paint-react/horiz/1.jpg') no-repeat center center fixed; }
+	#b2 { background: url('body-paint-react/horiz/2.jpg') no-repeat center center fixed; }
+	#b3 { background: url('body-paint-react/horiz/3.jpg') no-repeat center center fixed; }
+	#b4 { background: url('body-paint-react/horiz/4.jpg') no-repeat center center fixed; }
+	#b5 { background: url('body-paint-react/horiz/5.jpg') no-repeat center center fixed; }
+	#b6 { background: url('body-paint-react/horiz/6.jpg') no-repeat center center fixed; }
+	#b7 { background: url('body-paint-react/horiz/7.jpg') no-repeat center center fixed; }
+	#b8 { background: url('body-paint-react/horiz/8.jpg') no-repeat center center fixed; }	
+	#b9 { background: url('body-paint-react/horiz/9.jpg') no-repeat center center fixed; }
 	
 @media only screen and (orientation: portrait) {
-  body {background: url('body-paint-react/13.jpg') repeat center center fixed; }
-	#b1 { background: url('body-paint-react/2.jpg') no-repeat center center fixed; }
-	#b2 { background: url('body-paint-react/4.jpg') no-repeat center center fixed; }
-	#b3 { background: url('body-paint-react/5.jpg') no-repeat center center fixed; }
-	#b4 { background: url('body-paint-react/7.jpg') no-repeat center center fixed; }
-	#b5 { background: url('body-paint-react/9.jpg') no-repeat center center fixed; }
+  body {background: url('body-paint-react/vert/0.jpg') repeat center center fixed; }
+	#b1 { background: url('body-paint-react/vert/1.jpg') no-repeat center center fixed; }
+	#b2 { background: url('body-paint-react/vert/2.jpg') no-repeat center center fixed; }
+	#b3 { background: url('body-paint-react/vert/3.jpg') no-repeat center center fixed; }
+	#b4 { background: url('body-paint-react/vert/4.jpg') no-repeat center center fixed; }
+	#b5 { background: url('body-paint-react/vert/5.jpg') no-repeat center center fixed; }
+	#b6 { background: url('body-paint-react/vert/6.jpg') no-repeat center center fixed; }
+	#b7 { background: url('body-paint-react/vert/7.jpg') no-repeat center center fixed; }
+	#b8 { background: url('body-paint-react/vert/8.jpg') no-repeat center center fixed; }	
+	#b9 { background: url('body-paint-react/vert/9.jpg') no-repeat center center fixed; }
 }
 body > div
 {
             width:100%;
             height:100%;
-            background:#000000;
-            border-radius:20vw;
+            background-color:#000000;
+            border-radius:30vw;
             opacity:0.6;
             transition:all 0.8s ease;
 }
@@ -72,9 +79,11 @@ min-width:100px;
 </style>
 </head>
 	<body>
+		<a href="http://behance.net/mitchv">
 		<div>
-		<a href="http://behance.net/mitchv"><img src="nametype.png" align="center" height="50%" width="auto"></a>
+<img src="nametype.png" align="center" height="50%" width="auto"><ul><li>Portfolio</li><a href="about.html"><li>About</li></a><a href="http://linkedin.com/in/mitchell-vega-31550413/"><li>LinkedIn</li></a></ul>
 		</div>
+		</a>
 		<script type="text/javascript">
 					function run(interval, frames) {
 			    var int = 1;
@@ -88,25 +97,7 @@ min-width:100px;
 			    var swap = window.setInterval(func, interval);
 			}
 			
-			run(8000, 7); //milliseconds, frames
+			run(8000, 10); //milliseconds, frames
 		</script>
 	</body>
 </html>
-
-
----
-
-
-
-background-color: #ffff99;
-background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 1000 1000'%3E%3Cg fill='%23ffd573'%3E%3Cpolygon points='1000%2C-50 0%2C-50 500%2C450'/%3E%3Cpolygon points='550%2C500 1050%2C1000 1050%2C0'/%3E%3Cpolygon points='-50%2C0 -50%2C1000 450%2C500'/%3E%3Cpolygon points='0%2C1050 1000%2C1050 500%2C550'/%3E%3C/g%3E%3Cg fill='%23ffaa4d'%3E%3Cpolygon points='1000%2C-133.3 0%2C-133.3 500%2C366.7'/%3E%3Cpolygon points='633.3%2C500 1133.3%2C1000 1133.3%2C0'/%3E%3Cpolygon points='-133.3%2C0 -133.3%2C1000 366.7%2C500'/%3E%3Cpolygon points='0%2C1133.3 1000%2C1133.3 500%2C633.3'/%3E%3C/g%3E%3Cg fill='%23ff8026'%3E%3Cpolygon points='1000%2C-216.7 0%2C-216.7 500%2C283.3'/%3E%3Cpolygon points='716.7%2C500 1216.7%2C1000 1216.7%2C0'/%3E%3Cpolygon points='-216.7%2C0 -216.7%2C1000 283.3%2C500'/%3E%3Cpolygon points='0%2C1216.7 1000%2C1216.7 500%2C716.7'/%3E%3C/g%3E%3Cg fill='%23F50'%3E%3Cpolygon points='1000%2C-300 0%2C-300 500%2C200'/%3E%3Cpolygon points='800%2C500 1300%2C1000 1300%2C0'/%3E%3Cpolygon points='-300%2C0 -300%2C1000 200%2C500'/%3E%3Cpolygon points='0%2C1300 1000%2C1300 500%2C800'/%3E%3C/g%3E%3Cg fill-opacity='0.5'%3E%3Cpolygon fill='%23FE0' points='0%2C707.1 0%2C292.9 292.9%2C0 707.1%2C0 1000%2C292.9 1000%2C707.1 707.1%2C1000 292.9%2C1000'/%3E%3Cg fill='%23ffc800'%3E%3Cpolygon points='464.6%2C-242.5 -242.5%2C464.6 464.6%2C464.6'/%3E%3Cpolygon points='535.4%2C464.6 1242.5%2C464.6 535.4%2C-242.5'/%3E%3Cpolygon points='-242.5%2C535.4 464.6%2C1242.5 464.6%2C535.4'/%3E%3Cpolygon points='535.4%2C1242.5 1242.5%2C535.4 535.4%2C535.4'/%3E%3C/g%3E%3Cg fill='%23ffa200'%3E%3Cpolygon points='405.7%2C-301.4 -301.4%2C405.7 405.7%2C405.7'/%3E%3Cpolygon points='594.3%2C405.7 1301.4%2C405.7 594.3%2C-301.4'/%3E%3Cpolygon points='-301.4%2C594.3 405.7%2C1301.4 405.7%2C594.3'/%3E%3Cpolygon points='594.3%2C1301.4 1301.4%2C594.3 594.3%2C594.3'/%3E%3C/g%3E%3Cg fill='%23ff7b00'%3E%3Cpolygon points='346.8%2C-360.3 -360.3%2C346.8 346.8%2C346.8'/%3E%3Cpolygon points='653.2%2C346.8 1360.3%2C346.8 653.2%2C-360.3'/%3E%3Cpolygon points='-360.3%2C653.2 346.8%2C1360.3 346.8%2C653.2'/%3E%3Cpolygon points='653.2%2C1360.3 1360.3%2C653.2 653.2%2C653.2'/%3E%3C/g%3E%3Cg fill='%23F50'%3E%3Cpolygon points='287.9%2C-419.2 -419.2%2C287.9 287.9%2C287.9'/%3E%3Cpolygon points='712.1%2C287.9 1419.2%2C287.9 712.1%2C-419.2'/%3E%3Cpolygon points='-419.2%2C712.1 287.9%2C1419.2 287.9%2C712.1'/%3E%3Cpolygon points='712.1%2C1419.2 1419.2%2C712.1 712.1%2C712.1'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
-background-attachment: fixed;
-background-size: cover;
-background-position: center;
-
-
-background-color: #ff9d00;
-background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 1600 800'%3E%3Cg stroke='%23000' stroke-width='66.7' stroke-opacity='0.05' %3E%3Ccircle fill='%23ff9d00' cx='0' cy='0' r='1800'/%3E%3Ccircle fill='%23fb8d17' cx='0' cy='0' r='1700'/%3E%3Ccircle fill='%23f47d24' cx='0' cy='0' r='1600'/%3E%3Ccircle fill='%23ed6e2d' cx='0' cy='0' r='1500'/%3E%3Ccircle fill='%23e35f34' cx='0' cy='0' r='1400'/%3E%3Ccircle fill='%23d85239' cx='0' cy='0' r='1300'/%3E%3Ccircle fill='%23cc453e' cx='0' cy='0' r='1200'/%3E%3Ccircle fill='%23be3941' cx='0' cy='0' r='1100'/%3E%3Ccircle fill='%23b02f43' cx='0' cy='0' r='1000'/%3E%3Ccircle fill='%23a02644' cx='0' cy='0' r='900'/%3E%3Ccircle fill='%23901e44' cx='0' cy='0' r='800'/%3E%3Ccircle fill='%23801843' cx='0' cy='0' r='700'/%3E%3Ccircle fill='%236f1341' cx='0' cy='0' r='600'/%3E%3Ccircle fill='%235e0f3d' cx='0' cy='0' r='500'/%3E%3Ccircle fill='%234e0c38' cx='0' cy='0' r='400'/%3E%3Ccircle fill='%233e0933' cx='0' cy='0' r='300'/%3E%3Ccircle fill='%232e062c' cx='0' cy='0' r='200'/%3E%3Ccircle fill='%23210024' cx='0' cy='0' r='100'/%3E%3C/g%3E%3C/svg%3E");
-background-attachment: fixed;
-background-size: cover;
-background-position: center;
