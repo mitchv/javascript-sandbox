@@ -1,4 +1,8 @@
 "
+Todo: Finish card impact estimator, publish on github pages
+
+
+
 #My pomodoro clock:
 	*
 1. ##- JavaScript stuff -
