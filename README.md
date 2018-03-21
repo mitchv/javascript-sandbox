@@ -26,7 +26,7 @@ My degree is in Visual Communications from Whatcom Community College up in Belli
 <html>
 <head>
 <title>VeggART.com // Design by Mitch Vega</title>
-<style type="text/css">
+<style type="text/css"> 
 html {  background: #000000;}
 body {width:100%;height:100%;
 color:#ffffff;font-size:26pt; font-family:sans-serif; margin: 0; padding: 0; 
