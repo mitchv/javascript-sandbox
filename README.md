@@ -1,5 +1,5 @@
 "
-Todo: Finish card impact estimator, publish on github pages
+Todo: Finish card impact estimator, publish on github pages, infinite.js
 
 
 
