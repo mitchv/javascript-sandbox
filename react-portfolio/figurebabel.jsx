@@ -3,6 +3,7 @@ const { render } = ReactDOM;
 let breakPoints = [350, 500, 750];
 let images = [];
 const imgId = [234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253,];
+
 for(let i = 0; i< imgId.length; i++){
 	const ih = 200 + Math.floor(Math.random()*10)*15;
 		images.push("http://veggart.com/figure-drawings/d (" + imgId[i] + ").jpg");
