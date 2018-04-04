@@ -4,12 +4,12 @@ Todo: Finish card impact estimator, publish on github pages, infinite.js
 # My diet meal planner
 Base
 
-Prototype a mobile-first layout that allows the user to easily select and compare foods.
+Prototype a mobile-first layout that allows the user to easily select and compare foods, save and edit days..
 
 variables:
 	TDEE
 	
-	4 meals
+	# of meals
 	workout
 
 
