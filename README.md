@@ -6,6 +6,25 @@ Base
 
 Prototype a mobile-first layout that allows the user to easily select and compare foods, save and edit days..
 
+KS Copy:
+
+Join us on 6/9 for a carnal celebration, the likes of which would make Aphrodite blush.
+
+ Don't miss out on this event! Sign up for Kinky Salon Membership at ks.worldmodern.com
+
+As always, Kinky Salon is queer friendly, body positive, accessible and inclusive. This is a consent-driven, safe space for ALL to pursue the fantasies they seek.
+
+
+Costume inspiration:
+- Masquerade
+- Medieval
+- Mythology
+- Faery
+- Animals
+- Forest spirit
+- Plants
+- Bacchanal
+
 variables:
 	TDEE
 	
