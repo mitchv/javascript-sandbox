@@ -1,19 +1,12 @@
 "
 Todo: Finish card impact estimator, publish on github pages, infinite.js
 
-# My diet meal planner
-Base
-
-Prototype a mobile-first layout that allows the user to easily select and compare foods, save and edit days..
-
+# Who is my audience?
+People who have attended KS in the past.
+People who are familiar with what we do, but have not yet attended an event.
 KS Copy:
 
 Join us on 6/9 for a carnal celebration, the likes of which would make Aphrodite blush.
-
- Don't miss out on this event! Sign up for Kinky Salon Membership at ks.worldmodern.com
-
-As always, Kinky Salon is queer friendly, body positive, accessible and inclusive. This is a consent-driven, safe space for ALL to pursue the fantasies they seek.
-
 
 Costume inspiration:
 - Masquerade
@@ -24,6 +17,15 @@ Costume inspiration:
 - Forest spirit
 - Plants
 - Bacchanal
+
+Cabaret and musical guests coming soon. Previous events have included rope, fire and needle demos, drag, singing, body painting, DJs, performance art and more.
+
+ Don't miss out on this event! Sign up for Kinky Salon Membership at ks.worldmodern.com
+
+As always, Kinky Salon is queer friendly, body positive, accessible and inclusive. This is a consent-driven, safe space for ALL to pursue the fantasies they seek.
+
+
+
 
 variables:
 	TDEE
