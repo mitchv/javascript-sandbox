@@ -1,4 +1,12 @@
 "
+eagle
+make A symmetrical
+stylize 
+bulbous orb glowing
+
+change default email
+
+
 Todo: Finish card impact estimator, publish on github pages, infinite.js
 
 # Who is my audience?
@@ -6,12 +14,15 @@ People who have attended KS in the past.
 People who are familiar with what we do, but have not yet attended an event.
 KS Copy:
 
-Join us on 6/9 for a carnal celebration, the likes of which would make Aphrodite blush.
+Join us on 6/9 for a carnal celebration, the likes of which would make Aphrodite giggle and Pan blush.
 
 Costume inspiration:
+- Shakespearian
 - Masquerade
+- Renaissance
 - Medieval
 - Mythology
+- Fantasy
 - Faery
 - Animals
 - Forest spirit
