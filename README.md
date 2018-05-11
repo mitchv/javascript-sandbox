@@ -1,10 +1,43 @@
 "
-eagle
-make A symmetrical
-stylize 
-bulbous orb glowing
 
-change default email
+
+
+<p align="left">10pm - 10:45 : EMBODIED CONSENT Workshop w/ Carey French
+<img align="left" src="carey-headshot.jpg">
+Consent starts in the body. To ask for what we want and state our limits, we first have to figure out what our desires and boundaries are! In this consent primer we’ll feel into our bodies to notice our internal sense of yes and no, get familiar with the subtle language of sensation, and then practice communicating that with others. Practicing consent is what keeps us safe enough to have fun. Join us!
+<br>
+Bio: Carey French is a queer white cis woman from Seattle with a deep yearning to replace rape culture with consent culture and facilitate collective healing. She integrates somatic experiences of consent with nuanced discussions of power and privilege, inviting an embodied style of learning to get at the heart of what consent really means. She supports individuals and communities in practicing tools for safe, authentic connection and mutual celebration! She thinks boundaries are sexy.
+</p>
+
+<p align="left">11pm - 11:30 : CABARET
+<img align="right" src="cookie-couture.jpg">
+Emceed by Cookie Couture <br>
+<br>
+Featuring <br>
+ACROBATICS by AJ Rogers <br>
+PERFORMANCE by Alan Tchochiev <br>
+More to be announced<br>
+</p>
+
+LIVE DJs IN THE 
+
+10pm - 11pm: DJ Neural Net (Kinky Salon, Innerflight Music)
+https://soundcloud.com/neuralnet
+
+
+
+
+11:30 - 12:30 : DJ SH4RL3S3 / Sharlese (Depth, False Prophet)
+https://soundcloud.com/sharlese
+
+12:30 - 1:30 : Dane Garfield Wilson (Re-bar, Wrong Number, Chillography)
+http://www.mixcloud.com/danegarfieldwilson
+
+
+10PM 
+
+
+
 
 
 Todo: Finish card impact estimator, publish on github pages, infinite.js
