@@ -1,14 +1,6 @@
 "
 
-
-
-<p align="left">10pm - 10:45 : EMBODIED CONSENT Workshop w/ Carey French
-<img align="left" src="carey-headshot.jpg">
-Consent starts in the body. To ask for what we want and state our limits, we first have to figure out what our desires and boundaries are! In this consent primer we’ll feel into our bodies to notice our internal sense of yes and no, get familiar with the subtle language of sensation, and then practice communicating that with others. Practicing consent is what keeps us safe enough to have fun. Join us!
-<br>
-Bio: Carey French is a queer white cis woman from Seattle with a deep yearning to replace rape culture with consent culture and facilitate collective healing. She integrates somatic experiences of consent with nuanced discussions of power and privilege, inviting an embodied style of learning to get at the heart of what consent really means. She supports individuals and communities in practicing tools for safe, authentic connection and mutual celebration! She thinks boundaries are sexy.
-</p>
-
+-- To be added in End of May Blast:
 <p align="left">11pm - 11:30 : CABARET
 <img align="right" src="cookie-couture.jpg">
 Emceed by Cookie Couture <br>
@@ -18,6 +10,31 @@ ACROBATICS by AJ Rogers <br>
 PERFORMANCE by Alan Tchochiev <br>
 More to be announced<br>
 </p>
+
+
+
+--- In
+
+_"Are you a Kitty who like to lick cream?_
+_Or a playful Sprite in a sexy-hot dream?_
+_Faeries & Knaves & Creatures beware!_
+_MidSummer approacheth! A moment most rare!"_
+The magical spell will be cast on 6/9 in our SoDo sanctuary
+
+
+If you have already signed up as a member on http://hub.kinkysalon.com feel free to disregard this sentence, otherwise register ASAP - membership is required in order to purchase tickets at either the $50 general or $71 supporter level.
+
+A few volunteer shifts remain to be filled. If you are looking for an opportunity to give back and earn your entry, email kinkysalonseattle@
+
+
+<p align="left">10pm - 10:45 : EMBODIED CONSENT Workshop w/ Carey French
+<img align="left" src="carey-headshot.jpg">
+Consent starts in the body. To ask for what we want and state our limits, we first have to figure out what our desires and boundaries are! In this consent primer we’ll feel into our bodies to notice our internal sense of yes and no, get familiar with the subtle language of sensation, and then practice communicating that with others. Practicing consent is what keeps us safe enough to have fun. Join us!
+<br>
+Bio: Carey French is a queer white cis woman from Seattle with a deep yearning to replace rape culture with consent culture and facilitate collective healing. She integrates somatic experiences of consent with nuanced discussions of power and privilege, inviting an embodied style of learning to get at the heart of what consent really means. She supports individuals and communities in practicing tools for safe, authentic connection and mutual celebration! She thinks boundaries are sexy.
+</p>
+
+
 
 LIVE DJs IN THE 
 
